@@ -429,7 +429,7 @@
         width: 60px;
         border-radius: 100%;
         background-color: #F2994A;
-        background-image: url('/assets/icons/search2.png');
+        background-image: url('../icons/search2.png');
         background-repeat: no-repeat;
         background-position: center;
         background-size:60%;
